@@ -1,0 +1,27 @@
+#dragandrophandler {
+  height: 500px;
+  width: 500px;
+}
+
+#image-list {
+  height: 100px;
+  width: 800px;
+}
+
+.center-div {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textarea-element {
+  width: 100%;
+  margin: 0px auto;
+  margin-bottom: 15px;
+}
+
+#customText {
+  color: white;
+  margin-left: 20px;
+  margin-top: 40px;
+}
